@@ -24,7 +24,7 @@
     "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
-      "*password*"
+      "your password"
     ],
     "executionType": "Workflow",
     "readyForPiP": false,
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "d1fcdfbf-83d1-4b62-bb09-a4f97fb8102c",
+      "uniqueId": "your ubnique id",
       "input": [],
       "output": []
     }
